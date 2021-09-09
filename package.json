@@ -1,0 +1,14 @@
+{
+  "name": "gitatnode",
+  "version": "1.0.0",
+  "description": "\"i was practice node with git\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Md Ariful islam Roni \"",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
